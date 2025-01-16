@@ -1,0 +1,2 @@
+print("yayayaya")
+Print("^O^")
